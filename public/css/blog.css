@@ -1,0 +1,86 @@
+.post-meta {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+.single-blog-post h3 {
+    color: #0083C9;
+    text-transform: capitalize;
+    font-weight: 400;
+
+}
+
+.single-blog-post .post-meta ul {
+    padding-left: 0 !important;
+
+}
+
+.single-blog-post .post-meta ul li i {
+    color: #0083C9;
+}
+
+.single-blog-post .post-meta ul li i span {
+    text-transform: capitalize;
+}
+
+.blog__content {
+    width: 100%;
+
+}
+
+.blog__imga {
+    width: 400px;
+    max-height: 200px;
+
+}
+
+.pagination-area {
+    text-align: center;
+}
+
+.blog__title {
+    max-height: 50px;
+    padding-bottom: 20px;
+}
+
+.mainheader__top {
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header__top .nav__left,
+.header__top__right .nav__right {
+    display: flex;
+}
+
+.header__top .nav__left li,
+.header__top__right .nav__right li {
+    padding: 0 20px;
+
+
+}
+
+.header__top .nav__left li a,
+.header__top__right .nav__right li a {
+    color: #696763;
+    font-size: 1.5rem;
+}
+.header__top__right .nav__right{
+    display: flex;
+}
+.header__top__right ul.nav{
+    display: flex !important;
+}
+.header__top__right ul.nav li a{
+    color: #696763;
+    transition: all 0.5s;
+}
+.header__top__right ul.nav li:hover a{
+    color: #0083C9;
+}

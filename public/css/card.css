@@ -1,0 +1,25 @@
+.tblBody__card tr td img{
+    width: 50px ;
+    height: auto;
+    border-radius: 10px;
+}
+.tblBody__card tr td input.quantity{
+    width:50px;
+
+}
+.hoadon{
+    width: 50%;
+   
+}
+.hoadon h4.title{
+    font-size: 2rem;
+    color:#0083C9;
+    text-transform: uppercase;
+
+}
+.btn__accept{
+    width: 50%;
+
+}
+
+
